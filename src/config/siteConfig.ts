@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Written for nobody",
 
 	// 站点 URL
-	site_url: "http://localhost:4321",
+	site_url: "https://meteorfate-github-io.pages.dev/",
 
 	// 站点描述
 	description:
